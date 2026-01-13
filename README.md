@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="center">Hello World, I’m Clara. An aspiring game developer, learning by doing, breaking, fixing, and experimenting along the way.<br>“If you don’t take risks, you can’t create a future.” — Trafalgar D. Law</p>
+<h6 align="center">Hello World, I’m Clara. An aspiring game developer, learning by doing, breaking, fixing, and experimenting along the way.<br>“If you don’t take risks, you can’t create a future.” — Trafalgar D. Law</h6>
 
 ###
 
