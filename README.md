@@ -1,7 +1,7 @@
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+<div align="center">
+  <img height="10" src="https://cdn.discordapp.com/attachments/1411538548351307828/1417320293600595978/gif-1-1-1-1-1-3-1-1-1.gif?ex=69679922&is=696647a2&hm=4055b9f7b24293e755d8635fb37b08430816aafb0a04a0e2f4b7b0adf277fe21"  />
 </div>
 
 ###
