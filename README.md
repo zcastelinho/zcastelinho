@@ -1,101 +1,81 @@
-<!--
-    You are free to use this README as inspiration.
-    If you do, consider leaving a star on the original repository.
--->
+<!-- TOPO GIF -->
+<p align="center">
+  <img src="https://i.postimg.cc/wj3W0kfW/lawgif.gif" width="600"/>
+</p>
 
-<!-- Banner -->
-<a href="https://github.com/SEU_USUARIO">
-  <img src="assets/images/banner.png" alt="Banner" style="width:100%; height:auto"/>
-</a>
-
-<!-- Hello World typing -->
-<div align="center">
+<!-- HELLO WORLD -->
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=11000&color=FFFFFF&width=435&lines=console.log(%22Hello%2C+World!%22)" 
-      alt="Typing SVG" 
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=11000&color=FFFFFF&width=435&lines=console.log(%22Hello%2C+World!%22)" />
   </a>
-</div>
+</p>
 
-<br>
+---
 
-<!-- Badges -->
-<div align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img 
-      alt="Stars" 
-      title="Stars Profile" 
-      src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=000000&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/SEU_USUARIO" 
-    />
-  </a>
-  <a href="https://github.com/SEU_USUARIO?tab=followers">
-    <img 
-      alt="Followers" 
-      title="GitHub Followers" 
-      src="https://custom-icon-badges.herokuapp.com/github/followers/SEU_USUARIO?color=000000&labelColor=000000&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" 
-    />
-  </a>
-</div>
+<!-- SOBRE + IMAGEM -->
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-<br>
-<br>
+### Hi.
 
-<!-- Who am I -->
-<img src="assets/images/law.gif" width="390" align="left">
+Beginner developer interested in **game development**  
+and interactive experiences.
 
-<div align="center">
+Learning by doing.  
+Breaking things.  
+Understanding how ideas turn into code.
 
-### Who am I?
-</div>
+</td>
 
-<div align="justify">
+<td width="40%" align="right">
+  <img src="https://i.postimg.cc/WzZh8xR6/lawft.webp" width="260"/>
+</td>
+</tr>
+</table>
 
-I’m **Claras**, a beginner **game developer** learning through practice, experimentation, and curiosity.
+---
 
-I’m interested in creating **interactive experiences**, exploring mechanics, and turning ideas into something playable.  
-Most of what you’ll find here is part of my learning process: **tests, studies, small projects, and experiments**.
+<!-- GITHUB STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zcastelinho&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" height="160"/>
+</p>
 
-This profile is not about perfection.  
-It’s about progress.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcastelinho&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" height="140"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zcastelinho&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&hide_border=true"/>
+</p>
 
-<br>
-<br>
-<br>
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zcastelinho&theme=high-contrast&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true"/>
+</p>
 
-<!-- Links -->
-<div align="center">
-  <strong>You can find me here</strong>
-  <br><br>
+---
 
-  <a href="https://github.com/SEU_USUARIO">
-    <img 
-      src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" 
-      alt="GitHub"
-    />
-  </a>
+<!-- CAUTION + CHAPÉU -->
+<table align="center">
+<tr>
+<td width="70%" valign="middle">
 
-  <a href="https://discord.com/">
-    <img 
-      src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" 
-      alt="Discord"
-    />
-  </a>
-</div>
+> ⚠️ **CAUTION**  
+> “There’s no such thing as coincidence in this world.  
+> Everything happens for a reason.”
 
-<br>
+</td>
 
-> **Note**
->
-> Code is never finished.  
-> It only becomes clearer with time.
->
-> *“If you don’t take risks, you can’t create a future.”*  
-> — Trafalgar D. Law
+<td width="30%" align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Heart_Pirates_Jolly_Roger.svg" width="90"/>
+</td>
+</tr>
+</table>
 
-<br>
+---
 
-<!-- Contribution graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=high-contrast&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false)](https://github.com/SEU_USUARIO)
+<!-- IMAGEM FINAL -->
+<p align="center">
+  <img src="https://i.postimg.cc/Wb4tJzS2/lawhatpng.webp" width="220"/>
+</p>
