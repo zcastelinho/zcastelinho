@@ -1,29 +1,101 @@
-<br clear="both">
+<!--
+    You are free to use this README as inspiration.
+    If you do, consider leaving a star on the original repository.
+-->
 
+<!-- Banner -->
+<a href="https://github.com/SEU_USUARIO">
+  <img src="assets/images/banner.png" alt="Banner" style="width:100%; height:auto"/>
+</a>
+
+<!-- Hello World typing -->
 <div align="center">
-  <img height="10" src="https://cdn.discordapp.com/attachments/1411538548351307828/1417320293600595978/gif-1-1-1-1-1-3-1-1-1.gif?ex=69679922&is=696647a2&hm=4055b9f7b24293e755d8635fb37b08430816aafb0a04a0e2f4b7b0adf277fe21"  />
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=11000&color=FFFFFF&width=435&lines=console.log(%22Hello%2C+World!%22)" 
+      alt="Typing SVG" 
+    />
+  </a>
 </div>
 
-###
+<br>
 
-<br clear="both">
-
-<h4 align="center">Hello World, I’m Clara. An aspiring game developer, learning by doing, breaking, fixing, and experimenting along the way.<br>“If you don’t take risks, you can’t create a future.” — Trafalgar D. Law</h4>
-
-###
-
-<br clear="both">
-
+<!-- Badges -->
 <div align="center">
-  <img height="200" src="https://media.discordapp.net/attachments/1391261513846755539/1460741410679422976/e34c8a208e8e700c0d5722e215d96ecc.gif?ex=696804f3&is=6966b373&hm=f38ea7bbaadd35b3155e54101675821f2133da6943ce81fa3472c546525d83ce&="  />
+  <a href="https://github.com/SEU_USUARIO">
+    <img 
+      alt="Stars" 
+      title="Stars Profile" 
+      src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=000000&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/SEU_USUARIO" 
+    />
+  </a>
+  <a href="https://github.com/SEU_USUARIO?tab=followers">
+    <img 
+      alt="Followers" 
+      title="GitHub Followers" 
+      src="https://custom-icon-badges.herokuapp.com/github/followers/SEU_USUARIO?color=000000&labelColor=000000&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" 
+    />
+  </a>
 </div>
 
-###
+<br>
+<br>
 
-<br clear="both">
+<!-- Who am I -->
+<img src="assets/images/law.gif" width="390" align="left">
 
 <div align="center">
-  <img height="10" src="https://cdn.discordapp.com/attachments/1411538548351307828/1417320293600595978/gif-1-1-1-1-1-3-1-1-1.gif?ex=69679922&is=696647a2&hm=4055b9f7b24293e755d8635fb37b08430816aafb0a04a0e2f4b7b0adf277fe21"  />
+
+### Who am I?
 </div>
 
-###
+<div align="justify">
+
+I’m **Claras**, a beginner **game developer** learning through practice, experimentation, and curiosity.
+
+I’m interested in creating **interactive experiences**, exploring mechanics, and turning ideas into something playable.  
+Most of what you’ll find here is part of my learning process: **tests, studies, small projects, and experiments**.
+
+This profile is not about perfection.  
+It’s about progress.
+
+</div>
+
+<br>
+<br>
+<br>
+
+<!-- Links -->
+<div align="center">
+  <strong>You can find me here</strong>
+  <br><br>
+
+  <a href="https://github.com/SEU_USUARIO">
+    <img 
+      src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" 
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://discord.com/">
+    <img 
+      src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" 
+      alt="Discord"
+    />
+  </a>
+</div>
+
+<br>
+
+> **Note**
+>
+> Code is never finished.  
+> It only becomes clearer with time.
+>
+> *“If you don’t take risks, you can’t create a future.”*  
+> — Trafalgar D. Law
+
+<br>
+
+<!-- Contribution graph -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=high-contrast&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false)](https://github.com/SEU_USUARIO)
