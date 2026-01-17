@@ -68,14 +68,12 @@ Understanding how ideas turn into code.
 </td>
 
 <td width="30%" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Heart_Pirates_Jolly_Roger.svg" width="90"/>
-</td>
-</tr>
+ <!-- IMAGEM FINAL -->
+<p align="center">
+  <img src="https://i.postimg.cc/Wb4tJzS2/lawhatpng.webp" width="220"/>
+</p>
+
 </table>
 
 ---
 
-<!-- IMAGEM FINAL -->
-<p align="center">
-  <img src="https://i.postimg.cc/Wb4tJzS2/lawhatpng.webp" width="220"/>
-</p>
