@@ -36,14 +36,6 @@ Understanding how ideas turn into code.
 
 ---
 
-<!-- GITHUB STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zcastelinho&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcastelinho&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" height="140"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zcastelinho&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&hide_border=true"/>
