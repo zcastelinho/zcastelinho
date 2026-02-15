@@ -17,7 +17,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### Hi.
+### Hi, I'm Claras.
 
 Beginner developer interested in **game development**  
 and interactive experiences.
@@ -56,12 +56,11 @@ Understanding how ideas turn into code.
 
 ---
 
-<!-- CAUTION + CHAPÉU -->
+<!-- SEM CAUTION + CHAPÉU -->
 <table align="center">
 <tr>
 <td width="70%" valign="middle">
-
-> ⚠️ **CAUTION**  
+  
 > “There’s no such thing as coincidence in this world.  
 > Everything happens for a reason.”
 
