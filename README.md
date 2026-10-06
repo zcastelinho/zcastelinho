@@ -1,8 +1,3 @@
-<!-- TOPO GIF -->
-<p align="center">
-  <img src="https://i.postimg.cc/wj3W0kfW/lawgif.gif" width="600"/>
-</p>
-
 <!-- HELLO WORLD -->
 <p align="center">
   <a href="https://git.io/typing-svg">
